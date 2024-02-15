@@ -52,3 +52,5 @@ public class Character {
 }
 
 # UML DIAGRAM
+![Blank diagram (7)](https://github.com/SamanthaPaulineInes/INES_strategyPattern/assets/142489430/193f9b9d-cd80-45f3-b597-b55389abaed0)
+
